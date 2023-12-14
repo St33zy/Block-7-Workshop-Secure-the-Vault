@@ -2,6 +2,8 @@
 // create 3 variables that equal to the lock combination utilizing different arithmetic operators
 // create some sort of pop up so that the lock combination appears
 
+
+//this is the alert that pops up when you arrive to webpage
 window.alert("You have received this message because you have been chosen to open an important vault. Click the box below to find the super secret combination!!!!");
 
 num1 = 5 * 2 ;
