@@ -16,6 +16,7 @@ button {
     background-color: rgb(98, 19, 122);
     color: antiquewhite;
     border-radius: 5px;
+    padding: 20px;
 }
 #message {
     display: flex;
