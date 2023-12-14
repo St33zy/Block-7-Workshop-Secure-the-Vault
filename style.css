@@ -1,0 +1,26 @@
+.box {
+    width: 200px;
+    height: 100px;
+}
+body {
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /*centers items on the line (the x-axis by default)*/
+    align-items: center; /*centers items on the cross-axis (y by default)*/
+    background-color: dimgray;
+}
+button {
+    background-color: rgb(98, 19, 122);
+    color: antiquewhite;
+    border-radius: 5px;
+}
+#message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 35px;
+    font-family: cursive;
+}
